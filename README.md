@@ -7,6 +7,11 @@
 
 Решение 1
 
+![img](https://github.com/Furious992/DrK/blob/main/screen1.png)
+
+![img](https://github.com/Furious992/DrK/blob/main/screen2.png)
+
+[pkt file]((https://github.com/Furious992/DrK/blob/main/hsrp_maxp.pkt))
 
 Задание 2
 Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
