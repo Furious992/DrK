@@ -23,4 +23,4 @@
 Решение 2
 
 
-
+![img](https://github.com/Furious992/DrK/blob/main/screen3.png)
